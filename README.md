@@ -3,7 +3,34 @@ Arificial Intelligence Recording CCTV Project by ghdi1ghdi
 
 ## what Is AIRCCTV
 
-AIRCCTV is an abbreviation of AI Recording CCTV, and if artificial intelligence automatically judges a dangerous situation, a notification sounds, recording starts from that point, and the recording ends when the action ends.
+version 1. AIRCCTV is an abbreviation of AI Recording CCTV, and if artificial intelligence automatically judges a dangerous situation, a notification sounds, recording starts from that point, and the recording ends when the action ends.
+
+version 2. your Personal AI CCTV in android and ios, AIRCCTV is an abbreviation of AI Recording CCTV, and if artificial intelligence automatically judges a dangerous situation, a notification sounds, recording starts from that point, and the recording ends when the action ends.
+
+## develop Environment
+
+1. server
+    - IDE : Visual Studio Code
+    - Node.js
+    - MySQL
+
+2. web
+    - IDE : Visual Studio Code 
+    - React.js
+    - TypeScript
+
+3. mobile
+    - IDE : Android Studio
+    - Dart
+    - Flutter
+
+4. AI
+    - IDE : Visual Studio Code, Colab
+    - Python
+    - OpenCV
+    - YOLO v4
+    - Darknet
+    - 이상행동 CCTV 영상 DATA (https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=171)
 
 ## code Style
 
