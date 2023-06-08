@@ -48,7 +48,7 @@ version 2. your Personal AI CCTV in android and ios, AIRCCTV is an abbreviation 
     - If necessary, use underscores to separate words.
     - Constants represent values that won't be modified.
     ```
-    useIDName()
+    CONSTANTS
     ```
 4. factor
     - String using " "
