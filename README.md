@@ -4,19 +4,25 @@ Arificial Intelligence Recording CCTV Project by ghdi1ghdi
 
 ## what Is AIRCCTV
 
-version 1. AIRCCTV is an abbreviation of AI Recording CCTV, and if artificial intelligence automatically judges a dangerous situation, a notification sounds, recording starts from that point, and the recording ends when the action ends.
+version 1. AIRCCTV is an abbreviation of AI Recording CCTV, and if artificial intelligence automatically judges a dangerous situation, a notification sounds, recording starts from that point, and the recording ends when the action ends and Ordinary people do mosaic processing.
 
 version 2. your Personal AI CCTV in android and ios, AIRCCTV is an abbreviation of AI Recording CCTV, and if artificial intelligence automatically judges a dangerous situation, a notification sounds, recording starts from that point, and the recording ends when the action ends.
 
 ## How to use it
 
-1. test model
+0. download yolov5
+
+   - git clone https://github.com/ultralytics/yolov5 # clone
+   - cd yolov5
+   - pip install -r requirements.txt # install
+
+1. test my custom model
 
    - python detect.py --weights last.pt --conf 0.5 --source 0
 
-2. use testmain.py
+2. use main.py
 
-   - python -u "/Users/jack/Documents/GitHub/AIRCCTV/yolov5/testmain.py"
+   - python -u "/Users/jack/Documents/GitHub/AIRCCTV/yolov5/main.py"
 
 ## develop Environment
 
