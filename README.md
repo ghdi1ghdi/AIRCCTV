@@ -1,10 +1,22 @@
 # AIRCCTV
 
+![image](https://github.com/ghdi1ghdi/AIRCCTV/assets/73730434/8e9af11b-a109-4505-ae51-ba29ccacb2ce)
+
 Arificial Intelligence Recording CCTV Project by ghdi1ghdi
+
+## Award
+
+- 📋 2022 9th Korea SW Convergence Hackathon Contest / finalist (Sejong region representative)
+- 🎖️ 2022 National crisis-related digital-based crisis response contest / selected as an excellent example
+- 🥇 2023 Public Safety Invention Challenge National Police Agency Task / Grand Prize Award Commissioner of the Korean Intellectual Property Office (1st place)
 
 ## Demonstration video
 
 https://drive.google.com/file/d/1dYbCkjbKnYOXBOHc5cxuIPA7tp6DxeMh/view?usp=sharing
+
+## Model detected image
+
+![image](https://github.com/ghdi1ghdi/AIRCCTV/assets/73730434/6db6aa97-03fc-48d7-a7fc-63fb65c7d28f)
 
 ## what Is AIRCCTV
 
