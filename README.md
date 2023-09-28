@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1dYbCkjbKnYOXBOHc5cxuIPA7tp6DxeMh/view?usp=shari
 
 ![image](https://github.com/ghdi1ghdi/AIRCCTV/assets/73730434/6db6aa97-03fc-48d7-a7fc-63fb65c7d28f)
 
-## what Is AIRCCTV
+## What Is AIRCCTV
 
 version 1. AIRCCTV is an abbreviation of AI Recording CCTV, and if artificial intelligence automatically judges a dangerous situation, a notification sounds, recording starts from that point, and the recording ends when the action ends and Ordinary people do mosaic processing.
 
@@ -47,7 +47,7 @@ version 2. your Personal AI CCTV in android and ios, AIRCCTV is an abbreviation 
    - python -u "/localpath/AIRCCTV/main.py
    - python -u "/Users/jack/Documents/GitHub/AIRCCTV/main.py"
 
-## develop Environment
+## Develop Environment
 
 1. server
 
@@ -75,7 +75,7 @@ version 2. your Personal AI CCTV in android and ios, AIRCCTV is an abbreviation 
    - labelimg
    - 이상행동 CCTV 영상 DATA (https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=171)
 
-## code Style
+## Code Style
 
 1. indentation
 
