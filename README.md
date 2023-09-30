@@ -6,9 +6,9 @@ Arificial Intelligence Recording CCTV Project by ghdi1ghdi
 
 ## Award
 
-- 📋 2022 9th Korea SW Convergence Hackathon Contest / finalist (Sejong region representative)
-- 🎖️ 2022 National crisis-related digital-based crisis response contest / selected as an excellent example
 - 🥇 2023 Public Safety Invention Challenge National Police Agency Task / Grand Prize Award Commissioner of the Korean Intellectual Property Office (1st place)
+- 🎖️ 2022 National crisis-related digital-based crisis response contest / selected as an excellent example
+- 📋 2022 9th Korea SW Convergence Hackathon Contest / finalist (Sejong region representative)
 
 ## Demonstration video
 
